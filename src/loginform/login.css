@@ -1,0 +1,27 @@
+.login{
+     
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.log{
+    display: flex;
+    flex-direction: column;
+    width: 37%;
+    margin-left: 31%;
+     
+}
+.lo{
+    margin: 6px;
+    padding: 3px;
+}
+.sin{
+    text-decoration: none;
+    border: 1.3px solid rgb(54, 54, 54);
+    height: 35px;
+    border-radius: 100px;
+    width: 150px;
+    margin-left: 43%;
+    color: white;
+}
+ 
